@@ -1,5 +1,5 @@
 #import "RNCloudPayments.h"
-#import "SDK/Card.m"
+#import "SDK/Card.h"
 #import "SDWebViewController/SDWebViewController.h"
 #import "SDWebViewController/SDWebViewDelegate.h"
 #import "NSString+URLEncoding.h"
